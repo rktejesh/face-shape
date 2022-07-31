@@ -7,9 +7,9 @@ import faceshape
 
 app = Flask(__name__)
 
-# @app.route('/')
-# def index():
-#     return 'Hello world'
+@app.route('/')
+def index():
+    return 'Hello world'
 
 # @app.route('/image/test', methods=['POST'])
 # def test():
