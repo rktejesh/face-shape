@@ -1,0 +1,8 @@
+flask
+pypng
+jsonpickle
+dlib
+opencv-python
+numpy
+scikit-learn
+Pillow
